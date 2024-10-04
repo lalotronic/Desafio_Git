@@ -21,7 +21,7 @@
     </style>
 
     <style name="ThemeOverlay.Desafio2.FullscreenContainer" parent="">
-        <item name="fullscreenBackgroundColor">@color/plomo</item>
+        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
         <item name="fullscreenTextColor">@color/light_blue_A200</item>
     </style>
 </resources>
